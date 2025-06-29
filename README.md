@@ -1,7 +1,7 @@
 # Interactive Sales Performance Dashboard
 
-### [View the Live Interactive Dashboard on Tableau Public](MY_TABLEAU_PUBLIC_LINK_HERE)
-
+### [View the Live Interactive Dashboard on Tableau Public]
+https://public.tableau.com/views/InteractiveSalesPerformanceDashboard_17511216360240/InteractiveSalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ### Project Overview
