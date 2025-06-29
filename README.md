@@ -1,7 +1,7 @@
 # Interactive Sales Performance Dashboard
 
 ### [View the Live Interactive Dashboard on Tableau Public]
-https://public.tableau.com/views/InteractiveSalesPerformanceDashboard_17511216360240/InteractiveSalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+(https://public.tableau.com/views/InteractiveSalesPerformanceDashboard_17511216360240/InteractiveSalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ### Project Overview
@@ -27,7 +27,8 @@ This dashboard integrates four key analytical views into one seamless user exper
 3.  **Sales Trend Over Time:** A line chart that tracks sales performance month-over-month, crucial for identifying seasonality and business momentum.
 4.  **Top Product Categories:** A sorted bar chart that clearly displays the most profitable product categories, guiding inventory and marketing focus.
 
-![Dashboard Screenshot](LINK_TO_MY_DASHBOARD_SCREENSHOT.png)
+![Dashboard Screenshot]
+(https://github.com/Srimannarayana-ai/Tableau-Sales-Dashboard-Project/blob/main/Interactive%20Sales%20Performance%20Dashboard.png?raw=true)
 
 ---
 
